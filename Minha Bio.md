@@ -1,7 +1,8 @@
 <h1 align="center">Olá 👋, Eu sou Luis Henrique Cavazan</h1>
-<h3 align="center">Gosto do mercado financeiro, tecnologia e games.</h3>
-<h5 align="center">Trabalho há 5 anos em uma empresa provedora de Internet, onde é meu primeiro registro como CLT, e atualmente estou estudando desenvolvimento para mudar de profissão<h5>
-
+<h3 align="center">Gosto de mercado financeiro, tecnologia e games.</h3>
+<h5 align="center">Trabalho há 5 anos em uma empresa provedora de Internet, onde é meu primeiro registro como CLT, e atualmente estou estudando desenvolvimento para mudar de profissão</h5>
+<p align="center">Ainda estou realizando as configurações do meu perfil github e linkedin, e também aos poucos vou adicionando aqui no repositorio apendizado, alguns projetos que estou aprendendo.</p>
+  
 - 📫 Meu linkedin **https://www.linkedin.com/in/luis-henrique-29720a233/**
 
 <h3 align="left">Connect with me:</h3>
